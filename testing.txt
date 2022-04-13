@@ -1,3 +1,14 @@
-I added this file from a clone!
+******************
+* 
+* This is the start of testing.txt
+*
+******************
 
+I added this file from a clone!
 Now I added another line.
+
+******************
+* 
+* This is the end of testing.txt
+*
+******************
