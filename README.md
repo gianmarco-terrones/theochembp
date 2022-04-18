@@ -1,7 +1,7 @@
 theochembp
 ==============================
 [//]: # (Badges)
-[![GitHub Actions Build Status](https://github.com/REPLACE_WITH_OWNER_ACCOUNT/theochembp/workflows/CI/badge.svg)](https://github.com/REPLACE_WITH_OWNER_ACCOUNT/theochembp/actions?query=workflow%3ACI)
+[![CI](https://github.com/gianmarco-terrones/theochembp/actions/workflows/CI.yaml/badge.svg)](https://github.com/gianmarco-terrones/theochembp/actions/workflows/CI.yaml)
 [![codecov](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/theochembp/branch/master/graph/badge.svg)](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/theochembp/branch/master)
 
 
