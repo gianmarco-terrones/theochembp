@@ -141,9 +141,6 @@ def calculate_angle(
     AB = rB - rA
     BC = rB - rC
 
-    for k, v in rA.items():
-        print(k)
-
     theta = np.arccos(np.dot(AB, BC) / (np.linalg.norm(AB) * np.linalg.norm(BC)))
 
     if degrees:
